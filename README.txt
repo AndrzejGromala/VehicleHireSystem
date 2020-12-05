@@ -1,0 +1,1 @@
+Vehicle Hire System software written in C#. Radio buttons allow selection of a Car or a Van. Selection of the Make displays fields and populates them with the selected car's details. Entering number of days and clicking HIRE button displays prices. 

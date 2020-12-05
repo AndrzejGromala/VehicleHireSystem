@@ -26,3 +26,13 @@ C:\Users\Andrzej\source\repos\VehicleHireSystem\VehicleHireSystem\obj\Debug\Vehi
 C:\Users\Andrzej\source\repos\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.csproj.CoreCompileInputs.cache
 C:\Users\Andrzej\source\repos\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.exe
 C:\Users\Andrzej\source\repos\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.pdb
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\bin\Debug\VehicleHireSystem.exe.config
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\bin\Debug\VehicleHireSystem.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\bin\Debug\VehicleHireSystem.pdb
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.csprojAssemblyReference.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.Menu.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.csproj.GenerateResource.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.exe
+C:\Users\Andrzej\Desktop\GitProjectsForPortfolio\VahicleHireSystemC#\VehicleHireSystem\VehicleHireSystem\obj\Debug\VehicleHireSystem.pdb
